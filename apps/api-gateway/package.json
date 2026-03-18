@@ -30,9 +30,13 @@
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1",
     "ioredis": "^5.3.2",
+    "@nestjs/swagger": "^11.0.0",
+    "uuid": "^9.0.0",
+    "@nestjs-modules/ioredis": "^2.0.2",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
     "@wms/common": "*"
+
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
